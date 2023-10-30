@@ -1,12 +1,16 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.entireCounter{
+    text-align: center;
+    background-color: black;
+    padding-top: 0px;
+    margin: 20px;
+}
+.entireCounter div{
+    display:inline-block;
+    font-size: 60px;
+    padding: 20px;
+    color: white;
+    margin: 5px;
+    border: 2px solid #202020;
+    border-radius: 5px;
+    background-color: #191919;
+}
